@@ -1,618 +1,618 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TV Justiça">
+  <channel id="">
     <display-name lang="pt">TV Justiça</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TV Senado">
+  <channel id="">
     <display-name lang="pt">TV Senado</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TV Câmara">
+  <channel id="">
     <display-name lang="pt">TV Câmara</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TV Escola">
+  <channel id="">
     <display-name lang="pt">TV Escola</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TV Brasil">
+  <channel id="">
     <display-name lang="pt">TV Brasil</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="NBR">
+  <channel id="">
     <display-name lang="pt">NBR</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="IDEAL TV">
+  <channel id="">
     <display-name lang="pt">IDEAL TV</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="RIT">
+  <channel id="">
     <display-name lang="pt">RIT</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Rede Brasil">
+  <channel id="">
     <display-name lang="pt">Rede Brasil</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Record News">
+  <channel id="">
     <display-name lang="pt">Record News</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Rede CNT">
+  <channel id="">
     <display-name lang="pt">Rede CNT</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="RBI TV">
+  <channel id="">
     <display-name lang="pt">RBI TV</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Rede Vida">
+  <channel id="">
     <display-name lang="pt">Rede Vida</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Aparecida">
+  <channel id="">
     <display-name lang="pt">Aparecida</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Canção Nova">
+  <channel id="">
     <display-name lang="pt">Canção Nova</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="REDE TV FULL HD">
+  <channel id="">
     <display-name lang="pt">REDE TV FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="RECORD NORDESTE FULL HD">
+  <channel id="">
     <display-name lang="pt">RECORD NORDESTE FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="BAND FULL HD">
+  <channel id="">
     <display-name lang="pt">BAND FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SBT FULL HD">
+  <channel id="">
     <display-name lang="pt">SBT FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="GLOBO NORDESTE FULL HD">
+  <channel id="">
     <display-name lang="pt">GLOBO NORDESTE FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="CURTA! FULL HD">
+  <channel id="">
     <display-name lang="pt">CURTA! FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Polishop">
+  <channel id="">
     <display-name lang="pt">Polishop</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="OFF">
+  <channel id="">
     <display-name lang="pt">OFF</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SPORTV 3 FULL HD">
+  <channel id="">
     <display-name lang="pt">SPORTV 3 FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SPORTV 2 FULL HD">
+  <channel id="">
     <display-name lang="pt">SPORTV 2 FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SPORTV FULL HD">
+  <channel id="">
     <display-name lang="pt">SPORTV FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="GLOBO NEWS FULL HD">
+  <channel id="">
     <display-name lang="pt">GLOBO NEWS FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="GNT FULL HD">
+  <channel id="">
     <display-name lang="pt">GNT FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="MULTISHOW HD">
+  <channel id="">
     <display-name lang="pt">MULTISHOW HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Canal Viva">
+  <channel id="">
     <display-name lang="pt">Canal Viva</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="MAIS GLOBOSAT FULL HD">
+  <channel id="">
     <display-name lang="pt">MAIS GLOBOSAT FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="E! FULL HD">
+  <channel id="">
     <display-name lang="pt">E! FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="FOX LIFE FULL HD">
+  <channel id="">
     <display-name lang="pt">FOX LIFE FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TLC">
+  <channel id="">
     <display-name lang="pt">TLC</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="ARTE 1 FULL HD">
+  <channel id="">
     <display-name lang="pt">ARTE 1 FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Discovery Home &amp; Health">
+  <channel id="">
     <display-name lang="pt">Discovery Home &amp; Health</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Curta!">
+  <channel id="">
     <display-name lang="pt">Curta!</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TRUTV FULL HD">
+  <channel id="">
     <display-name lang="pt">TRUTV FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="WooHoo">
+  <channel id="">
     <display-name lang="pt">WooHoo</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="ESPN BRASIL FULL HD">
+  <channel id="">
     <display-name lang="pt">ESPN BRASIL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="ESPN FULL HD">
+  <channel id="">
     <display-name lang="pt">ESPN FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="ESPN EXTRA FULL HD">
+  <channel id="">
     <display-name lang="pt">ESPN EXTRA FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="FOX SPORTS FULL HD">
+  <channel id="">
     <display-name lang="pt">FOX SPORTS FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="FOX SPORTS 2 FULL HD">
+  <channel id="">
     <display-name lang="pt">FOX SPORTS 2 FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="BAND SPORTS FULL HD">
+  <channel id="">
     <display-name lang="pt">BAND SPORTS FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="BAND NEWS FULL HD">
+  <channel id="">
     <display-name lang="pt">BAND NEWS FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="National Geographic">
+  <channel id="">
     <display-name lang="pt">National Geographic</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISCOVERY WORLD FULL HD">
+  <channel id="">
     <display-name lang="pt">DISCOVERY WORLD FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="ANIMAL PLANET FULL HD">
+  <channel id="">
     <display-name lang="pt">ANIMAL PLANET FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="The History Channel">
+  <channel id="">
     <display-name lang="pt">The History Channel</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISCOVERY TURBO FULL HD">
+  <channel id="">
     <display-name lang="pt">DISCOVERY TURBO FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Futura">
+  <channel id="">
     <display-name lang="pt">Futura</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="H2 FULL HD">
+  <channel id="">
     <display-name lang="pt">H2 FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Discovery Kids">
+  <channel id="">
     <display-name lang="pt">Discovery Kids</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="GLOOB FULL HD">
+  <channel id="">
     <display-name lang="pt">GLOOB FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Disney">
+  <channel id="">
     <display-name lang="pt">Disney</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="NICKELODEON FULL HD">
+  <channel id="">
     <display-name lang="pt">NICKELODEON FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="CARTOON NETWORK FULL HD">
+  <channel id="">
     <display-name lang="pt">CARTOON NETWORK FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISNEY XD FULL HD">
+  <channel id="">
     <display-name lang="pt">DISNEY XD FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISNEY JUNIOR FULL HD">
+  <channel id="">
     <display-name lang="pt">DISNEY JUNIOR FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="NICK JUNIOR FULL HD">
+  <channel id="">
     <display-name lang="pt">NICK JUNIOR FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="BOOMERANG FULL HD">
+  <channel id="">
     <display-name lang="pt">BOOMERANG FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TV Rá Tim Bum">
+  <channel id="">
     <display-name lang="pt">TV Rá Tim Bum</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TOONCAST FULL HD">
+  <channel id="">
     <display-name lang="pt">TOONCAST FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="BIS">
+  <channel id="">
     <display-name lang="pt">BIS</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="MTV FULL HD">
+  <channel id="">
     <display-name lang="pt">MTV FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="PLAY TV FULL HD">
+  <channel id="">
     <display-name lang="pt">PLAY TV FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Music Box Brazil">
+  <channel id="">
     <display-name lang="pt">Music Box Brazil</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="UNIVERSAL CHANNEL FULL HD">
+  <channel id="">
     <display-name lang="pt">UNIVERSAL CHANNEL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="FOX FULL HD">
+  <channel id="">
     <display-name lang="pt">FOX FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="WARNER CHANNEL FULL HD">
+  <channel id="">
     <display-name lang="pt">WARNER CHANNEL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SONY FULL HD">
+  <channel id="">
     <display-name lang="pt">SONY FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="FX FULL HD">
+  <channel id="">
     <display-name lang="pt">FX FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="AXN FULL HD">
+  <channel id="">
     <display-name lang="pt">AXN FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TBS FULL HD">
+  <channel id="">
     <display-name lang="pt">TBS FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="COMEDY CENTRAL FULL HD">
+  <channel id="">
     <display-name lang="pt">COMEDY CENTRAL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="A&amp;E FULL HD">
+  <channel id="">
     <display-name lang="pt">A&amp;E FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="INVESTIGAÇÃO DISCOVERY FULL HD">
+  <channel id="">
     <display-name lang="pt">INVESTIGAÇÃO DISCOVERY FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SYFY FULL HD">
+  <channel id="">
     <display-name lang="pt">SYFY FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="iSat">
+  <channel id="">
     <display-name lang="pt">iSat</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="CANAL BRASIL FULL HD">
+  <channel id="">
     <display-name lang="pt">CANAL BRASIL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TNT FULL HD">
+  <channel id="">
     <display-name lang="pt">TNT FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Megapix">
+  <channel id="">
     <display-name lang="pt">Megapix</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Space">
+  <channel id="">
     <display-name lang="pt">Space</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="CINEMAX FULL HD">
+  <channel id="">
     <display-name lang="pt">CINEMAX FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Prime Box Brazil">
+  <channel id="">
     <display-name lang="pt">Prime Box Brazil</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="STUDIO UNIVERSAL FULL HD">
+  <channel id="">
     <display-name lang="pt">STUDIO UNIVERSAL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="PARAMOUNT FULL HD">
+  <channel id="">
     <display-name lang="pt">PARAMOUNT FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TCM FULL HD">
+  <channel id="">
     <display-name lang="pt">TCM FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TELECINE PREMIUM FULL HD">
+  <channel id="">
     <display-name lang="pt">TELECINE PREMIUM FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TELECINE ACTION FULL HD">
+  <channel id="">
     <display-name lang="pt">TELECINE ACTION FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TELECINE TOUCH FULL HD">
+  <channel id="">
     <display-name lang="pt">TELECINE TOUCH FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TELECINE FUN FULL HD">
+  <channel id="">
     <display-name lang="pt">TELECINE FUN FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TELECINE PIPOCA FULL HD">
+  <channel id="">
     <display-name lang="pt">TELECINE PIPOCA FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TELECINE CULT FULL HD">
+  <channel id="">
     <display-name lang="pt">TELECINE CULT FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO FULL HD">
+  <channel id="">
     <display-name lang="pt">HBO FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO 2 FULL HD">
+  <channel id="">
     <display-name lang="pt">HBO 2 FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO PLUS FULL HD">
+  <channel id="">
     <display-name lang="pt">HBO PLUS FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO Plus *e">
+  <channel id="">
     <display-name lang="pt">HBO Plus *e</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO FAMILY FULL HD">
+  <channel id="">
     <display-name lang="pt">HBO FAMILY FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO SIGNATURA FULL HD">
+  <channel id="">
     <display-name lang="pt">HBO SIGNATURA FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="MAX FULL HD">
+  <channel id="">
     <display-name lang="pt">MAX FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="MAX PRIME FULL HD">
+  <channel id="">
     <display-name lang="pt">MAX PRIME FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Max Prime *e">
+  <channel id="">
     <display-name lang="pt">Max Prime *e</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Terra Viva">
+  <channel id="">
     <display-name lang="pt">Terra Viva</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Canal Rural">
+  <channel id="">
     <display-name lang="pt">Canal Rural</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Boa Vontade TV">
+  <channel id="">
     <display-name lang="pt">Boa Vontade TV</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="CNN Internacional">
+  <channel id="">
     <display-name lang="pt">CNN Internacional</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="RAI">
+  <channel id="">
     <display-name lang="pt">RAI</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TV5 Monde">
+  <channel id="">
     <display-name lang="pt">TV5 Monde</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Deutsche Welle">
+  <channel id="">
     <display-name lang="pt">Deutsche Welle</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="NHK PREMIUM">
+  <channel id="">
     <display-name lang="pt">NHK PREMIUM</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SIC">
+  <channel id="">
     <display-name lang="pt">SIC</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="CNN ESPANÕL">
+  <channel id="">
     <display-name lang="pt">CNN ESPANÕL</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="PREMIERE CLUBES FULL HD">
+  <channel id="">
     <display-name lang="pt">PREMIERE CLUBES FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Combate">
+  <channel id="">
     <display-name lang="pt">Combate</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Playboy TV">
+  <channel id="">
     <display-name lang="pt">Playboy TV</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Sexy Hot">
+  <channel id="">
     <display-name lang="pt">Sexy Hot</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="OFF FULL HD">
+  <channel id="">
     <display-name lang="pt">OFF FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Sportv 2 HD">
+  <channel id="">
     <display-name lang="pt">Sportv 2 HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Sportv HD">
+  <channel id="">
     <display-name lang="pt">Sportv HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="GNT HD">
+  <channel id="">
     <display-name lang="pt">GNT HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="MULTISHOW FULL HD">
+  <channel id="">
     <display-name lang="pt">MULTISHOW FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="GLOBOSAT HD">
+  <channel id="">
     <display-name lang="pt">GLOBOSAT HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TLC FULL HD">
+  <channel id="">
     <display-name lang="pt">TLC FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISCOVERY HOME  HEALTH FULL HD">
+  <channel id="">
     <display-name lang="pt">DISCOVERY HOME  HEALTH FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="ESPN 2 FULL HD">
+  <channel id="">
     <display-name lang="pt">ESPN 2 FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Band Sports HD">
+  <channel id="">
     <display-name lang="pt">Band Sports HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISCOVERY CHANNEL FULL HD">
+  <channel id="">
     <display-name lang="pt">DISCOVERY CHANNEL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HISTORY CHANNEL FULL HD">
+  <channel id="">
     <display-name lang="pt">HISTORY CHANNEL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Discovery Turbo HD">
+  <channel id="">
     <display-name lang="pt">Discovery Turbo HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="NAT GEO WILD FULL HD">
+  <channel id="">
     <display-name lang="pt">NAT GEO WILD FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISCOVERY THEATER FULL HD">
+  <channel id="">
     <display-name lang="pt">DISCOVERY THEATER FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISCOVERY KIDS FULL HD">
+  <channel id="">
     <display-name lang="pt">DISCOVERY KIDS FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Gloob HD">
+  <channel id="">
     <display-name lang="pt">Gloob HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="DISNEY CHANNEL FULL HD">
+  <channel id="">
     <display-name lang="pt">DISNEY CHANNEL FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="BIS FULL HD">
+  <channel id="">
     <display-name lang="pt">BIS FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Universal Channel HD">
+  <channel id="">
     <display-name lang="pt">Universal Channel HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="FOX HD">
+  <channel id="">
     <display-name lang="pt">FOX HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Warner HD">
+  <channel id="">
     <display-name lang="pt">Warner HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Sony HD">
+  <channel id="">
     <display-name lang="pt">Sony HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="AXN HD">
+  <channel id="">
     <display-name lang="pt">AXN HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="TNT HD">
+  <channel id="">
     <display-name lang="pt">TNT HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="MEGAPIX FULL HD">
+  <channel id="">
     <display-name lang="pt">MEGAPIX FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SPACE FULL HD">
+  <channel id="">
     <display-name lang="pt">SPACE FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Paramount HD">
+  <channel id="">
     <display-name lang="pt">Paramount HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Telecine Premium HD">
+  <channel id="">
     <display-name lang="pt">Telecine Premium HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Telecine Action HD">
+  <channel id="">
     <display-name lang="pt">Telecine Action HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Telecine Touch HD">
+  <channel id="">
     <display-name lang="pt">Telecine Touch HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Telecine Fun HD">
+  <channel id="">
     <display-name lang="pt">Telecine Fun HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Telecine Pipoca HD">
+  <channel id="">
     <display-name lang="pt">Telecine Pipoca HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO2 HD">
+  <channel id="">
     <display-name lang="pt">HBO2 HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO Plus HD">
+  <channel id="">
     <display-name lang="pt">HBO Plus HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="HBO SIGNATURE FULL HD">
+  <channel id="">
     <display-name lang="pt">HBO SIGNATURE FULL HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
